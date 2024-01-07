@@ -1,0 +1,381 @@
+nacao;campeonato;rodada;ano;dia;home;away;HGHT;AGHT;HGFT;AGFT;odd_home;odd_draw;odd_away;over25;endereco
+BRAZIL;SERIE B;ROUND 1;2022;08.04.2022;Vasco;Vila Nova FC;1;1;1;1;1.85;3.09;4.5;2.54;https://www.flashscore.com/match/x4dN8E2a/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;08.04.2022;Brusque;Guarani;0;0;1;0;2.62;2.95;2.79;2.36;https://www.flashscore.com/match/MDgBBGIt/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;08.04.2022;Bahia;Cruzeiro;0;0;2;0;2.31;2.95;3.23;2.4;https://www.flashscore.com/match/j70R7YH5/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;09.04.2022;Chapecoense-SC;Ituano;0;0;1;1;2.46;2.94;3.05;2.51;https://www.flashscore.com/match/OKbZ5CnI/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;09.04.2022;Ponte Preta;Gremio;0;0;0;0;4.43;3.24;1.83;2.41;https://www.flashscore.com/match/4dPdhgII/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;09.04.2022;Sport Recife;Sampaio Correa;0;0;1;0;1.89;3.13;4.4;2.44;https://www.flashscore.com/match/K47qGdAP/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;09.04.2022;Tombense;Operario;0;0;1;1;2.44;2.91;3.12;2.62;https://www.flashscore.com/match/pUaV6hXB/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;10.04.2022;Londrina;Nautico;2;0;2;0;2.45;3.09;2.89;2.32;https://www.flashscore.com/match/fu7I9fmg/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;12.04.2022;Vila Nova FC;Novorizontino;0;0;0;0;1.98;3.07;3.95;2.43;https://www.flashscore.com/match/YkIHIkWN/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;12.04.2022;Cruzeiro;Brusque;0;0;1;0;1.56;3.77;5.55;2.1;https://www.flashscore.com/match/KnEDJVGH/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;14.04.2022;Criciuma;Londrina;1;0;1;0;2.13;2.89;3.83;2.78;https://www.flashscore.com/match/8rXiOg2n/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;15.04.2022;Gremio;Chapecoense-SC;0;0;0;1;1.33;4.5;8.7;1.94;https://www.flashscore.com/match/bXP4Lin5/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;15.04.2022;Nautico;Bahia;0;1;0;1;2.98;3.13;2.35;2.19;https://www.flashscore.com/match/d8TmPZnt/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;16.04.2022;Operario;Ponte Preta;1;0;2;0;2.17;2.93;3.61;2.73;https://www.flashscore.com/match/UcL0MXWb/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;16.04.2022;Ituano;CSA;0;0;0;0;2.25;2.97;3.37;2.51;https://www.flashscore.com/match/j7MdNDHh/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;16.04.2022;Sampaio Correa;Tombense;1;1;1;1;2.29;2.79;3.54;2.74;https://www.flashscore.com/match/xOO8KB1B/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;16.04.2022;Guarani;Sport Recife;0;0;0;0;2.05;2.98;3.91;2.73;https://www.flashscore.com/match/tdgv5W1O/#/match-summary
+BRAZIL;SERIE B;ROUND 2;2022;16.04.2022;CRB;Vasco;1;1;1;1;2.39;2.99;3.08;2.42;https://www.flashscore.com/match/Knhr4jHU/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;21.04.2022;Gremio;Guarani;2;1;3;1;1.45;3.87;7.07;2.17;https://www.flashscore.com/match/0MmwIwcA/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;21.04.2022;Londrina;Novorizontino;1;1;1;1;2.19;2.92;3.51;2.74;https://www.flashscore.com/match/IcbYIJs4/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;22.04.2022;CSA;Bahia;1;1;1;1;2.66;2.87;2.82;2.62;https://www.flashscore.com/match/UL3mDTgo/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;22.04.2022;Chapecoense-SC;Vasco;0;0;0;0;2.41;3.02;2.94;2.36;https://www.flashscore.com/match/nwjkFysT/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;23.04.2022;Criciuma;Sport Recife;1;0;1;1;2.47;2.84;3.11;2.69;https://www.flashscore.com/match/AXfQKuDi/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;23.04.2022;Ponte Preta;CRB;1;0;1;0;2.41;2.89;3.16;2.59;https://www.flashscore.com/match/SCHLH9oU/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;23.04.2022;Sampaio Correa;Brusque;1;0;3;1;2.49;3.06;2.86;2.22;https://www.flashscore.com/match/vDnsHcCG/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;23.04.2022;Tombense;Cruzeiro;0;0;1;1;3.87;3.01;2.05;2.43;https://www.flashscore.com/match/8nioGHRM/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;23.04.2022;Ituano;Vila Nova FC;2;0;3;1;2.38;2.9;3.24;2.61;https://www.flashscore.com/match/4ffUJaSc/#/match-summary
+BRAZIL;SERIE B;ROUND 3;2022;24.04.2022;Nautico;Operario;1;0;2;0;2.15;3.0;3.55;2.43;https://www.flashscore.com/match/WtdMLLco/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;26.04.2022;Sport Recife;Ituano;0;0;1;0;2.24;2.86;3.53;2.69;https://www.flashscore.com/match/48Z2Ybsi/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;26.04.2022;Novorizontino;Chapecoense-SC;0;2;0;3;2.09;2.98;3.75;2.54;https://www.flashscore.com/match/0zTBWxC3/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;26.04.2022;Vila Nova FC;Tombense;1;0;1;1;1.95;3.0;4.38;2.66;https://www.flashscore.com/match/6urdBSue/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;26.04.2022;Brusque;CSA;0;0;2;0;2.17;3.16;3.31;2.17;https://www.flashscore.com/match/raY6XIdc/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;26.04.2022;Cruzeiro;Londrina;0;0;1;0;1.45;3.88;7.33;2.25;https://www.flashscore.com/match/SlqhC8Ql/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;26.04.2022;Bahia;Sampaio Correa;1;0;1;0;1.33;4.44;9.2;2.0;https://www.flashscore.com/match/pQgmDlBr/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;27.04.2022;Operario;Gremio;0;0;0;1;3.73;3.13;2.04;2.36;https://www.flashscore.com/match/vRRFVdR9/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;27.04.2022;CRB;Nautico;0;0;1;2;1.83;3.13;4.64;2.38;https://www.flashscore.com/match/j5oL9F4j/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;27.04.2022;Guarani;Criciuma;0;0;1;0;2.05;3.03;3.84;2.56;https://www.flashscore.com/match/hKSHAekp/#/match-summary
+BRAZIL;SERIE B;ROUND 4;2022;27.04.2022;Vasco;Ponte Preta;1;0;1;0;1.99;2.99;4.01;2.57;https://www.flashscore.com/match/YmRJUGtG/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;29.04.2022;Londrina;Vila Nova FC;1;0;2;2;2.34;2.78;3.45;3.0;https://www.flashscore.com/match/tIMbVmXQ/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;29.04.2022;Ituano;Bahia;1;0;1;0;2.64;2.93;2.75;2.46;https://www.flashscore.com/match/2RNfWTHK/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;30.04.2022;CSA;Sport Recife;0;0;1;0;2.15;2.87;3.75;2.83;https://www.flashscore.com/match/hdt496A7/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;30.04.2022;Sampaio Correa;Operario;0;1;1;1;2.37;2.87;3.29;2.6;https://www.flashscore.com/match/023VPRfl/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;30.04.2022;Gremio;CRB;2;0;2;0;1.3;4.73;10.0;1.96;https://www.flashscore.com/match/MB4RQ7ur/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;30.04.2022;Chapecoense-SC;Cruzeiro;0;0;0;2;2.93;2.91;2.53;2.68;https://www.flashscore.com/match/6a6wO5P0/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;30.04.2022;Ponte Preta;Brusque;1;0;2;0;2.33;2.99;3.17;2.36;https://www.flashscore.com/match/E5s0Ane1/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;01.05.2022;Criciuma;Novorizontino;0;0;1;1;2.05;3.0;3.99;2.68;https://www.flashscore.com/match/84OjX92E/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;01.05.2022;Tombense;Vasco;1;0;1;1;3.08;2.75;2.54;3.06;https://www.flashscore.com/match/fP2ZOoAf/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;03.05.2022;Bahia;Londrina;3;0;4;0;1.47;3.66;7.0;2.25;https://www.flashscore.com/match/nJRCx5vf/#/match-summary
+BRAZIL;SERIE B;ROUND 5;2022;03.05.2022;Nautico;Guarani;0;1;1;1;2.17;3.06;3.31;2.31;https://www.flashscore.com/match/f1KnYkm8/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;04.05.2022;Novorizontino;CRB;1;1;3;1;2.34;2.86;3.31;2.77;https://www.flashscore.com/match/Gl8EAzYn/#/match-summary
+BRAZIL;SERIE B;ROUND 1;2022;04.05.2022;CSA;Criciuma;0;0;1;1;1.76;3.22;4.86;2.48;https://www.flashscore.com/match/IaT0iDXO/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;05.05.2022;Brusque;Chapecoense-SC;0;0;0;0;2.03;3.14;3.75;2.31;https://www.flashscore.com/match/fLnYqmnK/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;06.05.2022;Vila Nova FC;Nautico;2;0;2;0;2.05;3.16;3.64;2.33;https://www.flashscore.com/match/hWdDzq96/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;06.05.2022;Sport Recife;Tombense;0;0;2;0;1.93;2.95;4.42;2.86;https://www.flashscore.com/match/GUmUpTWD/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;07.05.2022;Operario;Criciuma;2;0;2;0;2.17;2.89;3.68;2.86;https://www.flashscore.com/match/E5T4vR9s/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;07.05.2022;Vasco;CSA;0;0;1;0;1.93;2.96;4.45;2.69;https://www.flashscore.com/match/8SS8woPm/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;07.05.2022;Novorizontino;Ituano;1;1;2;1;2.4;2.87;3.21;2.78;https://www.flashscore.com/match/xpxwq71Q/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;08.05.2022;Guarani;Ponte Preta;0;0;0;0;2.07;2.93;3.99;2.89;https://www.flashscore.com/match/lOerNPv7/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;08.05.2022;Cruzeiro;Gremio;1;0;1;0;2.3;2.93;3.33;2.64;https://www.flashscore.com/match/Eub9yPg0/#/match-summary
+BRAZIL;SERIE B;ROUND 6;2022;09.05.2022;CRB;Sampaio Correa;2;0;2;1;1.88;3.18;4.21;2.39;https://www.flashscore.com/match/SEfnMqfD/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;13.05.2022;Ponte Preta;Novorizontino;0;0;0;1;2.1;2.87;3.82;3.01;https://www.flashscore.com/match/ngdHZ2OC/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;13.05.2022;Chapecoense-SC;Sport Recife;0;1;0;1;2.26;2.72;3.67;3.21;https://www.flashscore.com/match/vmLfmMhC/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;14.05.2022;Londrina;Brusque;1;0;2;1;2.4;2.96;3.07;2.58;https://www.flashscore.com/match/CzUwi4gm/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;14.05.2022;Criciuma;CRB;1;0;3;0;1.86;3.11;4.57;2.46;https://www.flashscore.com/match/thw8dQVP/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;14.05.2022;Tombense;Guarani;1;1;1;1;2.67;2.76;2.96;2.88;https://www.flashscore.com/match/0dMjl2w6/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;14.05.2022;Sampaio Correa;Vila Nova FC;1;0;2;0;2.49;2.91;2.93;2.48;https://www.flashscore.com/match/6ZMnkrOa/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;14.05.2022;CSA;Operario;0;0;0;0;1.71;3.34;5.07;2.41;https://www.flashscore.com/match/0d0LYMwJ/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;15.05.2022;Vasco;Bahia;1;0;1;0;2.38;2.86;3.23;2.7;https://www.flashscore.com/match/faJrjO8g/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;15.05.2022;Nautico;Cruzeiro;0;1;0;1;3.41;3.03;2.2;2.41;https://www.flashscore.com/match/21v4c6GJ/#/match-summary
+BRAZIL;SERIE B;ROUND 7;2022;16.05.2022;Ituano;Gremio;0;0;1;1;3.86;2.77;2.12;2.98;https://www.flashscore.com/match/YqVZipvs/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;17.05.2022;Novorizontino;Sport Recife;0;0;0;0;2.47;2.72;3.26;3.13;https://www.flashscore.com/match/82qI4NNn/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;18.05.2022;CRB;Londrina;1;0;1;0;2.05;3.0;3.92;2.65;https://www.flashscore.com/match/zFE3o0NO/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;19.05.2022;Vila Nova FC;Chapecoense-SC;0;0;0;0;1.91;2.96;4.43;2.61;https://www.flashscore.com/match/Uyzw0axI/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;19.05.2022;Gremio;Criciuma;0;0;0;0;1.49;3.62;6.62;2.41;https://www.flashscore.com/match/fJsQ21ha/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;19.05.2022;Nautico;CSA;0;1;1;1;2.27;2.95;3.29;2.61;https://www.flashscore.com/match/lI2oAq0P/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;19.05.2022;Guarani;Vasco;0;0;0;0;2.96;2.67;2.72;3.03;https://www.flashscore.com/match/dOFant8I/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;20.05.2022;Brusque;Tombense;0;0;1;0;1.84;3.18;4.52;2.52;https://www.flashscore.com/match/QwfD538t/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;20.05.2022;Bahia;Ponte Preta;1;0;2;1;1.47;3.66;7.9;2.55;https://www.flashscore.com/match/Y9tU1L75/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;21.05.2022;Operario;Ituano;0;1;3;2;2.93;2.87;2.57;2.71;https://www.flashscore.com/match/ngrM3swg/#/match-summary
+BRAZIL;SERIE B;ROUND 8;2022;22.05.2022;Cruzeiro;Sampaio Correa;0;0;2;0;1.3;4.54;10.25;2.08;https://www.flashscore.com/match/GYVY0uNB/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;24.05.2022;Sport Recife;CRB;0;1;0;1;1.89;2.86;4.74;3.03;https://www.flashscore.com/match/xttg6zai/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;24.05.2022;Ponte Preta;Chapecoense-SC;0;0;0;0;2.23;2.74;3.78;3.16;https://www.flashscore.com/match/MXc6rX6p/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;25.05.2022;Londrina;Operario;1;0;2;1;2.13;2.99;3.7;2.6;https://www.flashscore.com/match/8vc43YrA/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;26.05.2022;Vasco;Brusque;1;0;2;0;1.74;3.22;5.0;2.43;https://www.flashscore.com/match/j3n92hbG/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;26.05.2022;Ituano;Nautico;0;0;0;0;1.76;3.24;4.93;2.23;https://www.flashscore.com/match/Agv14ET3/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;27.05.2022;Tombense;Bahia;0;0;1;0;4.43;3.03;1.9;2.52;https://www.flashscore.com/match/bTkH0WSS/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;27.05.2022;Criciuma;Cruzeiro;0;0;0;1;3.49;2.9;2.19;2.57;https://www.flashscore.com/match/GWvc5fEc/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;28.05.2022;CSA;Novorizontino;2;0;2;1;2.03;2.94;4.13;2.76;https://www.flashscore.com/match/0OdAsiMj/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;28.05.2022;Sampaio Correa;Guarani;1;0;2;1;2.52;2.93;2.93;2.27;https://www.flashscore.com/match/UgoD1CDM/#/match-summary
+BRAZIL;SERIE B;ROUND 9;2022;29.05.2022;Vila Nova FC;Gremio;0;0;0;0;4.14;3.02;1.96;2.65;https://www.flashscore.com/match/0xxqdjyp/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;01.06.2022;CRB;CSA;0;0;0;0;3.16;2.64;2.61;3.06;https://www.flashscore.com/match/d4VifU5d/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;02.06.2022;Vasco;Gremio;0;0;0;0;2.77;2.64;2.86;3.05;https://www.flashscore.com/match/2NXrFVsM/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;02.06.2022;Sport Recife;Ponte Preta;0;1;2;1;2.1;2.64;4.34;3.62;https://www.flashscore.com/match/A7JZIDrc/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;02.06.2022;Guarani;Vila Nova FC;1;0;1;1;2.2;2.83;3.59;2.74;https://www.flashscore.com/match/r1RmeAjj/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;03.06.2022;Operario;Cruzeiro;0;0;1;2;4.38;2.92;1.94;2.74;https://www.flashscore.com/match/80YvGBSF/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;04.06.2022;Novorizontino;Sampaio Correa;0;0;0;0;1.78;3.19;4.8;2.49;https://www.flashscore.com/match/U9ZzHiD9/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;04.06.2022;Bahia;Criciuma;0;1;2;1;1.71;3.32;5.11;2.39;https://www.flashscore.com/match/GQymEkcS/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;04.06.2022;Tombense;Ituano;1;1;2;1;2.87;2.71;2.73;3.05;https://www.flashscore.com/match/M7EF995q/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;04.06.2022;Brusque;Nautico;1;0;1;2;1.77;3.44;4.47;2.19;https://www.flashscore.com/match/lbIwIXc3/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;06.06.2022;Guarani;Operario;0;1;0;3;1.9;3.03;4.35;2.52;https://www.flashscore.com/match/UXHN7mzd/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;07.06.2022;Vila Nova FC;Brusque;0;0;0;2;2.02;3.06;3.86;2.57;https://www.flashscore.com/match/MRt1L64e/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;07.06.2022;Nautico;Vasco;0;2;2;3;3.2;2.81;2.38;2.74;https://www.flashscore.com/match/ATfAVjS2/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;07.06.2022;Londrina;Tombense;0;1;1;1;2.13;2.9;3.72;2.72;https://www.flashscore.com/match/fHdMSlCL/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;07.06.2022;Ituano;Ponte Preta;1;2;1;2;2.08;2.96;3.86;2.78;https://www.flashscore.com/match/GQcITUdF/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;07.06.2022;Criciuma;Sampaio Correa;2;1;3;1;1.63;3.52;5.51;2.26;https://www.flashscore.com/match/M3bEUAs9/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;07.06.2022;Gremio;Novorizontino;1;0;2;0;1.45;3.84;7.28;2.38;https://www.flashscore.com/match/ChiRR8RR/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;07.06.2022;CSA;Chapecoense-SC;1;0;1;1;1.87;3.06;4.5;2.68;https://www.flashscore.com/match/8OGR67k2/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;08.06.2022;Cruzeiro;CRB;2;0;2;0;1.42;3.86;8.35;2.41;https://www.flashscore.com/match/8OxcMnkk/#/match-summary
+BRAZIL;SERIE B;ROUND 11;2022;08.06.2022;Bahia;Sport Recife;0;0;1;0;1.9;2.98;4.53;2.59;https://www.flashscore.com/match/E1wgNSZr/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;10.06.2022;Sampaio Correa;Nautico;2;0;2;0;1.98;3.19;3.73;2.22;https://www.flashscore.com/match/SnCZZ5Jl/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;10.06.2022;Chapecoense-SC;Criciuma;2;1;2;3;2.49;2.73;3.16;2.9;https://www.flashscore.com/match/OE5rYql1/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;11.06.2022;Brusque;Ituano;0;1;0;1;2.19;2.9;3.55;2.55;https://www.flashscore.com/match/zkXfslRE/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;11.06.2022;Ponte Preta;Londrina;0;0;1;2;2.18;2.8;3.78;2.78;https://www.flashscore.com/match/4jW5KQJ1/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;11.06.2022;CRB;Vila Nova FC;0;0;1;0;2.46;2.74;3.24;3.07;https://www.flashscore.com/match/rsV9JpZ7/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;11.06.2022;Operario;Bahia;0;0;0;1;2.75;2.82;2.78;2.54;https://www.flashscore.com/match/WGQ3uSeR/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;12.06.2022;Novorizontino;Guarani;0;1;1;2;2.22;2.82;3.6;2.68;https://www.flashscore.com/match/IDMat8tL/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;12.06.2022;Vasco;Cruzeiro;1;0;1;0;2.95;2.67;2.71;3.02;https://www.flashscore.com/match/ldDVzn4r/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;12.06.2022;Tombense;CSA;0;0;2;1;2.46;2.78;3.18;2.9;https://www.flashscore.com/match/pO6vZPYf/#/match-summary
+BRAZIL;SERIE B;ROUND 12;2022;13.06.2022;Sport Recife;Gremio;0;0;0;0;3.01;2.73;2.59;2.99;https://www.flashscore.com/match/dbYjrUB8/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;14.06.2022;Bahia;Chapecoense-SC;0;1;0;1;1.56;3.45;6.18;2.44;https://www.flashscore.com/match/E1gHJ5j5/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;16.06.2022;Cruzeiro;Ponte Preta;1;0;2;0;1.33;4.31;9.59;2.26;https://www.flashscore.com/match/8OhLIP5B/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;16.06.2022;Vila Nova FC;Operario;0;0;0;0;1.77;3.2;4.74;2.58;https://www.flashscore.com/match/nFiPHqLH/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;17.06.2022;Criciuma;Brusque;0;0;0;1;1.75;3.3;4.59;2.24;https://www.flashscore.com/match/A9d0Nmit/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;17.06.2022;CRB;Ituano;0;0;1;1;2.24;2.86;3.41;2.75;https://www.flashscore.com/match/UB8jWNID/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;18.06.2022;Gremio;Sampaio Correa;1;0;2;0;1.34;4.53;8.25;1.89;https://www.flashscore.com/match/0bkDKoya/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;18.06.2022;Novorizontino;Tombense;1;1;1;3;1.89;3.0;4.56;2.85;https://www.flashscore.com/match/vq14M76n/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;18.06.2022;Londrina;Vasco;0;0;0;1;3.34;2.76;2.37;2.8;https://www.flashscore.com/match/IZa8LRLh/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;18.06.2022;Nautico;Sport Recife;0;1;1;1;2.84;2.8;2.68;2.67;https://www.flashscore.com/match/YqZWvGMD/#/match-summary
+BRAZIL;SERIE B;ROUND 13;2022;19.06.2022;Guarani;CSA;0;0;0;0;2.21;2.83;3.65;2.68;https://www.flashscore.com/match/Iy5nX337/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;21.06.2022;Chapecoense-SC;CRB;1;1;1;2;2.02;2.9;3.89;2.87;https://www.flashscore.com/match/0hn3TtKT/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;23.06.2022;Ponte Preta;Sampaio Correa;0;0;0;0;2.14;2.99;3.49;2.55;https://www.flashscore.com/match/SQ8MG3zO/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;23.06.2022;CSA;Gremio;1;0;1;1;3.2;2.67;2.46;3.02;https://www.flashscore.com/match/6H7QFNkU/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;24.06.2022;Vasco;Operario;0;0;3;0;1.58;3.54;5.86;2.29;https://www.flashscore.com/match/nVumXOK4/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;24.06.2022;Londrina;Guarani;1;1;3;1;2.3;2.96;3.18;2.52;https://www.flashscore.com/match/IeyqY45b/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;25.06.2022;Criciuma;Vila Nova FC;1;0;1;0;1.96;3.03;4.14;2.73;https://www.flashscore.com/match/dtmzzRzn/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;25.06.2022;Bahia;Novorizontino;0;0;0;1;1.71;3.21;5.22;2.53;https://www.flashscore.com/match/QLviWrzB/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;25.06.2022;Sport Recife;Brusque;0;0;0;0;1.9;3.03;4.42;2.84;https://www.flashscore.com/match/rwqWz7Lu/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;26.06.2022;Tombense;Nautico;0;1;1;1;2.09;3.06;3.62;2.44;https://www.flashscore.com/match/8pUeV2kH/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;27.06.2022;Sampaio Correa;CSA;0;0;2;0;2.51;2.78;3.03;2.69;https://www.flashscore.com/match/fF7xrtZM/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;27.06.2022;Operario;Chapecoense-SC;2;0;2;1;2.64;2.66;3.04;2.97;https://www.flashscore.com/match/8b9Uq24A/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;28.06.2022;Gremio;Londrina;1;0;1;0;1.4;4.14;7.9;2.14;https://www.flashscore.com/match/nk8YrMJG/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;28.06.2022;Brusque;Bahia;0;2;0;2;2.87;2.68;2.69;3.08;https://www.flashscore.com/match/CWFLoOZc/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;28.06.2022;Vila Nova FC;Ponte Preta;1;1;1;1;2.17;2.77;3.7;3.1;https://www.flashscore.com/match/vmq9xKdp/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;28.06.2022;Guarani;Ituano;0;1;0;2;2.35;2.95;3.06;2.47;https://www.flashscore.com/match/21YUO0Sp/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;28.06.2022;Cruzeiro;Sport Recife;2;1;2;1;1.62;3.23;6.31;2.76;https://www.flashscore.com/match/Y56ts0lT/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;29.06.2022;Nautico;Criciuma;1;1;1;1;2.82;2.79;2.66;2.67;https://www.flashscore.com/match/I9GHn4Ki/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;29.06.2022;Novorizontino;Vasco;1;0;2;0;2.78;2.74;2.73;2.85;https://www.flashscore.com/match/QZJPprk4/#/match-summary
+BRAZIL;SERIE B;ROUND 15;2022;29.06.2022;CRB;Tombense;0;0;0;0;2.1;2.91;3.85;2.76;https://www.flashscore.com/match/vJHDmp5o/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;01.07.2022;Chapecoense-SC;Sampaio Correa;0;0;3;1;1.94;2.94;4.39;2.56;https://www.flashscore.com/match/0GCjkctj/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;01.07.2022;Cruzeiro;Vila Nova FC;1;0;2;0;1.45;3.74;8.28;2.44;https://www.flashscore.com/match/Wt8njwRq/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;01.07.2022;Brusque;Operario;1;0;2;0;1.67;3.42;5.28;2.5;https://www.flashscore.com/match/2LU3b1J3/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;02.07.2022;Londrina;CSA;0;0;0;0;2.4;2.77;3.3;2.75;https://www.flashscore.com/match/zZSBdulG/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;02.07.2022;Ituano;Criciuma;0;0;1;2;2.15;3.03;3.54;2.49;https://www.flashscore.com/match/tCT7cLY9/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;02.07.2022;Nautico;Novorizontino;3;0;3;1;2.83;2.96;2.57;2.49;https://www.flashscore.com/match/ppzaas4c/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;02.07.2022;CRB;Guarani;1;0;1;1;2.1;2.97;3.69;2.55;https://www.flashscore.com/match/6gye0Nli/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;03.07.2022;Ponte Preta;Tombense;0;0;0;0;2.03;2.9;4.13;2.76;https://www.flashscore.com/match/hjmDyvCj/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;03.07.2022;Vasco;Sport Recife;0;0;0;0;2.09;2.8;4.01;2.93;https://www.flashscore.com/match/n9WFea3M/#/match-summary
+BRAZIL;SERIE B;ROUND 16;2022;03.07.2022;Bahia;Gremio;0;0;0;0;2.57;2.69;3.12;2.84;https://www.flashscore.com/match/UXLKfJIS/#/match-summary
+BRAZIL;SERIE B;ROUND 14;2022;05.07.2022;Ituano;Cruzeiro;0;0;1;1;3.73;2.95;2.08;2.52;https://www.flashscore.com/match/v5xuZpjh/#/match-summary
+BRAZIL;SERIE B;ROUND 10;2022;05.07.2022;Chapecoense-SC;Londrina;0;1;0;3;2.04;2.92;4.07;2.66;https://www.flashscore.com/match/0bDJ8TKk/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;05.07.2022;Operario;CRB;2;2;2;3;2.25;2.77;3.58;2.8;https://www.flashscore.com/match/hOnBhWnr/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;06.07.2022;Novorizontino;Brusque;0;0;1;0;2.08;2.94;3.82;2.72;https://www.flashscore.com/match/SSikAbIF/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;07.07.2022;CSA;Ponte Preta;0;0;0;1;1.95;2.92;4.34;2.66;https://www.flashscore.com/match/tCkwD0Yd/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;08.07.2022;Vila Nova FC;Bahia;0;0;1;1;3.3;2.85;2.28;2.78;https://www.flashscore.com/match/M3vSlln7/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;08.07.2022;Gremio;Nautico;1;0;2;0;1.27;4.76;10.12;2.05;https://www.flashscore.com/match/WEoFij2l/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;09.07.2022;Guarani;Cruzeiro;1;0;1;0;3.77;3.15;2.0;2.34;https://www.flashscore.com/match/v7BflHed/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;09.07.2022;Sport Recife;Londrina;1;0;2;0;1.91;2.94;4.65;2.78;https://www.flashscore.com/match/fFgsCKm3/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;09.07.2022;Tombense;Chapecoense-SC;1;1;2;1;2.47;2.74;3.28;2.84;https://www.flashscore.com/match/vukNkUW0/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;09.07.2022;Criciuma;Vasco;0;1;0;1;2.33;2.78;3.48;2.85;https://www.flashscore.com/match/lxgoBv39/#/match-summary
+BRAZIL;SERIE B;ROUND 17;2022;09.07.2022;Sampaio Correa;Ituano;1;0;2;0;2.37;3.01;3.13;2.4;https://www.flashscore.com/match/QyoJjAHf/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;14.07.2022;Operario;Sport Recife;0;0;0;0;2.75;2.81;2.74;2.77;https://www.flashscore.com/match/vuBh59Wm/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;15.07.2022;Criciuma;Ponte Preta;0;1;1;1;1.88;3.1;4.25;2.8;https://www.flashscore.com/match/APKMAV8Q/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;15.07.2022;Vila Nova FC;CSA;0;1;1;2;2.2;2.71;3.86;3.1;https://www.flashscore.com/match/8K291RVC/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;16.07.2022;Ituano;Londrina;0;0;0;0;2.05;3.12;3.75;2.39;https://www.flashscore.com/match/pIBl6kHs/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;16.07.2022;CRB;Brusque;0;0;1;1;2.36;2.89;3.22;2.7;https://www.flashscore.com/match/lAWDCivE/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;16.07.2022;Sampaio Correa;Vasco;1;0;3;1;2.48;2.99;2.87;2.42;https://www.flashscore.com/match/z7413m10/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;16.07.2022;Gremio;Tombense;3;0;3;0;1.27;4.88;10.94;1.97;https://www.flashscore.com/match/IV9d4Tof/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;16.07.2022;Guarani;Bahia;0;1;0;2;2.75;2.9;2.7;2.68;https://www.flashscore.com/match/0fwWm81D/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;17.07.2022;Nautico;Chapecoense-SC;0;0;1;2;2.17;2.81;3.77;2.68;https://www.flashscore.com/match/S0VHBBgK/#/match-summary
+BRAZIL;SERIE B;ROUND 18;2022;17.07.2022;Cruzeiro;Novorizontino;1;0;2;1;1.57;3.56;6.02;2.37;https://www.flashscore.com/match/Ec3527G6/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;18.07.2022;Sport Recife;Vila Nova FC;0;0;0;0;1.68;3.12;5.76;2.85;https://www.flashscore.com/match/baQYxISa/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;19.07.2022;Tombense;Criciuma;1;0;1;0;2.96;2.74;2.61;2.7;https://www.flashscore.com/match/j70gtiZi/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;19.07.2022;Londrina;Sampaio Correa;1;0;1;0;1.89;3.18;4.14;2.29;https://www.flashscore.com/match/llJozGCI/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;19.07.2022;Brusque;Gremio;0;0;1;1;4.29;2.85;1.98;2.8;https://www.flashscore.com/match/tOFwxxr6/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;19.07.2022;Bahia;CRB;1;0;1;1;1.62;3.41;5.86;2.41;https://www.flashscore.com/match/CG1ksXJo/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;19.07.2022;Vasco;Ituano;0;1;1;1;1.64;3.37;5.58;2.68;https://www.flashscore.com/match/QDtFImso/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;20.07.2022;Ponte Preta;Nautico;0;0;1;0;1.92;3.08;4.18;2.38;https://www.flashscore.com/match/jZMQvvbm/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;20.07.2022;CSA;Cruzeiro;0;1;1;1;2.39;2.84;3.24;2.7;https://www.flashscore.com/match/K8RUwbDg/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;20.07.2022;Chapecoense-SC;Guarani;0;0;0;0;2.09;3.02;3.67;2.54;https://www.flashscore.com/match/pUacuBlb/#/match-summary
+BRAZIL;SERIE B;ROUND 19;2022;20.07.2022;Novorizontino;Operario;2;0;2;1;1.68;3.27;5.62;2.55;https://www.flashscore.com/match/fRJsydcC/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;22.07.2022;Sampaio Correa;Sport Recife;2;0;4;1;2.34;2.79;3.31;2.71;https://www.flashscore.com/match/tYMnFp0C/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;23.07.2022;Cruzeiro;Bahia;0;0;1;0;1.84;3.16;4.52;2.53;https://www.flashscore.com/match/b9HiE4FI/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;23.07.2022;Vila Nova FC;Vasco;0;0;1;0;3.0;2.61;2.74;3.12;https://www.flashscore.com/match/x0GeDOUO/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;23.07.2022;Gremio;Ponte Preta;2;0;2;1;1.35;4.22;9.52;2.25;https://www.flashscore.com/match/2sOrGQp6/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;23.07.2022;Nautico;Londrina;1;0;1;2;2.25;2.93;3.39;2.67;https://www.flashscore.com/match/Y1WRJ8os/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;23.07.2022;Ituano;Chapecoense-SC;1;0;1;0;2.04;3.1;3.77;2.55;https://www.flashscore.com/match/fHKzInGg/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;23.07.2022;CRB;Novorizontino;2;0;2;1;2.39;2.9;3.14;2.78;https://www.flashscore.com/match/2Jq0OlwQ/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;24.07.2022;Guarani;Brusque;0;0;1;1;2.22;2.88;3.55;2.77;https://www.flashscore.com/match/OSpdPUNJ/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;25.07.2022;Operario;Tombense;0;0;0;0;2.05;2.89;3.99;2.79;https://www.flashscore.com/match/8KOvH6Va/#/match-summary
+BRAZIL;SERIE B;ROUND 20;2022;25.07.2022;Criciuma;CSA;0;1;2;1;2.1;2.88;3.78;2.72;https://www.flashscore.com/match/ChVVIS0m/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;26.07.2022;Chapecoense-SC;Gremio;0;0;0;0;4.21;2.96;1.96;2.65;https://www.flashscore.com/match/ARgxQ1EU/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;28.07.2022;Vasco;CRB;2;0;4;0;1.79;3.06;4.92;2.58;https://www.flashscore.com/match/OAiQS3UB/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;28.07.2022;Sport Recife;Guarani;1;0;2;1;1.95;2.89;4.41;2.75;https://www.flashscore.com/match/fVa9WoVn/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;29.07.2022;Bahia;Nautico;0;0;3;0;1.5;3.7;6.8;2.16;https://www.flashscore.com/match/xEeURNqI/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;29.07.2022;Tombense;Sampaio Correa;0;0;3;0;2.57;2.78;2.99;2.72;https://www.flashscore.com/match/WzeYQsaO/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;30.07.2022;Brusque;Cruzeiro;0;0;0;0;2.94;2.78;2.63;2.74;https://www.flashscore.com/match/YLbDV5pg/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;30.07.2022;Londrina;Criciuma;1;1;1;1;2.31;2.84;3.37;2.74;https://www.flashscore.com/match/tn2LTqF5/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;30.07.2022;Novorizontino;Vila Nova FC;0;1;1;1;1.98;2.96;4.27;2.68;https://www.flashscore.com/match/2e3HUPaa/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;30.07.2022;Ponte Preta;Operario;2;0;3;0;1.87;3.14;4.55;2.78;https://www.flashscore.com/match/j34wx87P/#/match-summary
+BRAZIL;SERIE B;ROUND 21;2022;30.07.2022;CSA;Ituano;0;2;1;3;2.03;2.95;4.06;2.58;https://www.flashscore.com/match/C6A4XRFt/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;31.07.2022;Vasco;Chapecoense-SC;0;0;0;0;1.78;3.07;5.04;2.83;https://www.flashscore.com/match/Asr0usEH/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;02.08.2022;Sport Recife;Criciuma;0;1;1;1;2.08;2.85;3.93;2.79;https://www.flashscore.com/match/6koqqPEh/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;04.08.2022;Brusque;Sampaio Correa;1;0;1;1;1.79;3.16;4.8;2.54;https://www.flashscore.com/match/KhkmrqUb/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;04.08.2022;CRB;Ponte Preta;1;1;1;1;2.36;2.79;3.36;2.78;https://www.flashscore.com/match/CSoup5an/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;05.08.2022;Vila Nova FC;Ituano;0;0;1;1;2.54;2.8;3.06;2.67;https://www.flashscore.com/match/t6bxMhDd/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;05.08.2022;Operario;Nautico;0;0;1;0;2.26;2.94;3.36;2.61;https://www.flashscore.com/match/t8wdtNbB/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;05.08.2022;Guarani;Gremio;0;1;1;2;4.35;2.96;1.97;2.89;https://www.flashscore.com/match/Yymyoopt/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;06.08.2022;Bahia;CSA;1;0;1;0;1.64;3.4;5.72;2.39;https://www.flashscore.com/match/n75TNErp/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;06.08.2022;Novorizontino;Londrina;0;0;0;1;2.13;2.93;3.71;2.72;https://www.flashscore.com/match/2Hvhs3q5/#/match-summary
+BRAZIL;SERIE B;ROUND 22;2022;06.08.2022;Cruzeiro;Tombense;0;0;2;0;1.44;3.86;7.45;2.24;https://www.flashscore.com/match/UVfYMYcj/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;09.08.2022;Ituano;Sport Recife;2;1;4;1;2.15;2.92;3.74;2.66;https://www.flashscore.com/match/OlvysfkM/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;09.08.2022;Gremio;Operario;1;0;5;1;1.3;4.59;11.21;2.16;https://www.flashscore.com/match/rZK7yYCq/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;09.08.2022;Ponte Preta;Vasco;1;1;3;1;2.6;2.64;3.12;3.05;https://www.flashscore.com/match/f9nKpxjc/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;09.08.2022;CSA;Brusque;0;0;1;0;2.11;2.88;3.83;2.68;https://www.flashscore.com/match/YaoOqd53/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;09.08.2022;Londrina;Cruzeiro;0;0;1;2;3.04;2.8;2.54;2.9;https://www.flashscore.com/match/xhrutE4S/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;09.08.2022;Tombense;Vila Nova FC;0;0;0;0;2.35;2.75;3.39;2.84;https://www.flashscore.com/match/G0YEZBsd/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;09.08.2022;Sampaio Correa;Bahia;1;0;2;0;3.01;2.89;2.48;2.48;https://www.flashscore.com/match/MPJBzhSk/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;10.08.2022;Nautico;CRB;2;0;2;1;2.46;2.94;3.01;2.52;https://www.flashscore.com/match/jytTrGK9/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;10.08.2022;Chapecoense-SC;Novorizontino;1;1;2;2;2.28;2.87;3.4;2.86;https://www.flashscore.com/match/fiXIYVd2/#/match-summary
+BRAZIL;SERIE B;ROUND 23;2022;10.08.2022;Criciuma;Guarani;0;0;0;0;1.81;3.13;4.68;2.6;https://www.flashscore.com/match/URvXszzG/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;12.08.2022;Vila Nova FC;Londrina;0;0;0;0;2.3;2.81;3.48;3.06;https://www.flashscore.com/match/WxYbVH77/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;12.08.2022;Brusque;Ponte Preta;1;0;2;1;2.29;2.86;3.4;2.65;https://www.flashscore.com/match/pt0BvMpL/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;12.08.2022;Bahia;Ituano;0;0;2;0;1.6;3.54;5.62;2.26;https://www.flashscore.com/match/ANqjXwwe/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;13.08.2022;Vasco;Tombense;2;0;3;1;1.55;3.49;6.93;2.63;https://www.flashscore.com/match/bmtnYJNl/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;13.08.2022;Operario;Sampaio Correa;0;0;1;1;2.31;2.94;3.22;2.5;https://www.flashscore.com/match/4QtrZa8r/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;13.08.2022;Sport Recife;CSA;3;0;4;0;2.02;2.92;4.18;2.76;https://www.flashscore.com/match/6k17u2VE/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;13.08.2022;Cruzeiro;Chapecoense-SC;0;1;1;1;1.58;3.46;6.19;2.4;https://www.flashscore.com/match/hnZfWch1/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;13.08.2022;Guarani;Nautico;0;0;1;0;1.92;3.05;4.37;2.6;https://www.flashscore.com/match/bPcasO02/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;13.08.2022;CRB;Gremio;2;0;2;0;4.3;2.91;1.98;2.91;https://www.flashscore.com/match/CS13trG8/#/match-summary
+BRAZIL;SERIE B;ROUND 24;2022;14.08.2022;Novorizontino;Criciuma;1;1;3;1;2.07;2.96;3.88;2.6;https://www.flashscore.com/match/2HfGwt0R/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;16.08.2022;Londrina;Bahia;0;1;1;1;3.22;2.86;2.37;2.75;https://www.flashscore.com/match/js5Powhl/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;17.08.2022;Criciuma;Operario;1;0;2;0;1.86;3.16;4.4;2.46;https://www.flashscore.com/match/fBJgiaUQ/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;18.08.2022;CSA;Vasco;2;0;2;0;2.72;2.83;2.8;2.54;https://www.flashscore.com/match/bqQpgLaE/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;18.08.2022;Tombense;Sport Recife;1;0;1;0;3.34;2.72;2.44;3.07;https://www.flashscore.com/match/I9OYseiD/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;19.08.2022;Ituano;Novorizontino;1;0;1;0;2.24;2.97;3.38;2.5;https://www.flashscore.com/match/Cj6LnJxr/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;19.08.2022;Nautico;Vila Nova FC;1;0;1;2;2.29;2.91;3.32;2.78;https://www.flashscore.com/match/t8FkhuFK/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;20.08.2022;Ponte Preta;Guarani;0;0;1;0;2.2;2.82;3.7;2.76;https://www.flashscore.com/match/KhRtf1p8/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;20.08.2022;Chapecoense-SC;Brusque;0;0;1;0;2.43;2.7;3.35;2.89;https://www.flashscore.com/match/KE2H6vUD/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;20.08.2022;Sampaio Correa;CRB;1;1;1;2;1.91;3.12;4.33;2.43;https://www.flashscore.com/match/AqLQqHM0/#/match-summary
+BRAZIL;SERIE B;ROUND 25;2022;21.08.2022;Gremio;Cruzeiro;1;1;2;2;1.92;3.05;4.35;2.62;https://www.flashscore.com/match/WhMMpc7f/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;23.08.2022;Sport Recife;Chapecoense-SC;0;0;1;0;1.8;3.08;5.03;2.64;https://www.flashscore.com/match/Umhi0x7s/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;25.08.2022;Vila Nova FC;Sampaio Correa;0;0;0;0;1.95;3.0;4.26;2.76;https://www.flashscore.com/match/jF4N2VSu/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;25.08.2022;Novorizontino;Ponte Preta;1;0;1;1;2.02;3.19;3.72;2.32;https://www.flashscore.com/match/Ac0abGyf/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;26.08.2022;Gremio;Ituano;0;0;0;1;1.38;4.04;8.93;2.26;https://www.flashscore.com/match/rBb7df66/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;26.08.2022;Brusque;Londrina;0;1;0;1;2.14;2.86;3.92;3.08;https://www.flashscore.com/match/CCsdadMm/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;26.08.2022;Cruzeiro;Nautico;1;0;4;0;1.32;4.55;9.36;2.02;https://www.flashscore.com/match/vwhGfYzJ/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;27.08.2022;Guarani;Tombense;1;0;2;1;1.82;3.05;4.93;2.81;https://www.flashscore.com/match/b51L5bqK/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;27.08.2022;CRB;Criciuma;0;0;0;0;2.22;2.88;3.59;2.69;https://www.flashscore.com/match/Sv6P4IbQ/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;27.08.2022;Operario;CSA;0;0;0;0;2.6;2.65;3.14;2.95;https://www.flashscore.com/match/4Ka3czi0/#/match-summary
+BRAZIL;SERIE B;ROUND 26;2022;28.08.2022;Bahia;Vasco;2;1;2;1;1.75;3.22;5.03;2.6;https://www.flashscore.com/match/0ngCeELC/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;29.08.2022;Chapecoense-SC;Vila Nova FC;1;1;1;2;2.32;2.66;3.61;3.14;https://www.flashscore.com/match/t4J5F8Co/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;30.08.2022;Sampaio Correa;Cruzeiro;1;1;1;1;3.56;3.09;2.1;2.35;https://www.flashscore.com/match/2wlee5RT/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;30.08.2022;Londrina;CRB;0;0;1;0;2.12;2.79;3.97;3.15;https://www.flashscore.com/match/fDpmcRdH/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;30.08.2022;Sport Recife;Novorizontino;0;0;1;0;1.92;3.05;4.34;2.6;https://www.flashscore.com/match/QXdz0TCb/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;30.08.2022;Ituano;Operario;0;0;0;0;1.68;3.28;5.59;2.46;https://www.flashscore.com/match/Clerb7sB/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;30.08.2022;Tombense;Brusque;1;0;1;0;2.6;2.76;3.01;2.79;https://www.flashscore.com/match/4nzNjPZp/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;30.08.2022;CSA;Nautico;0;0;2;0;1.84;3.18;4.55;2.44;https://www.flashscore.com/match/nsbW09ch/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;30.08.2022;Criciuma;Gremio;1;0;2;0;3.67;2.88;2.18;2.81;https://www.flashscore.com/match/YcdvamS4/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;31.08.2022;Vasco;Guarani;1;0;2;1;1.74;3.12;5.28;2.62;https://www.flashscore.com/match/8GlidoCN/#/match-summary
+BRAZIL;SERIE B;ROUND 27;2022;31.08.2022;Ponte Preta;Bahia;1;0;2;0;2.96;2.83;2.55;2.72;https://www.flashscore.com/match/4I8R1krn/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;02.09.2022;Nautico;Ituano;0;0;2;0;2.7;2.98;2.68;2.51;https://www.flashscore.com/match/QiLHC6d4/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;02.09.2022;Gremio;Vila Nova FC;1;0;2;1;1.47;3.66;7.72;2.58;https://www.flashscore.com/match/fXCY8OeT/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;03.09.2022;Novorizontino;CSA;0;1;1;1;1.86;3.03;4.62;2.61;https://www.flashscore.com/match/n79QApRG/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;03.09.2022;Guarani;Sampaio Correa;1;0;3;0;1.95;3.02;4.16;2.51;https://www.flashscore.com/match/KfI9ESRi/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;03.09.2022;Brusque;Vasco;1;0;1;0;2.48;2.89;3.0;2.66;https://www.flashscore.com/match/8GAMBQBA/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;03.09.2022;CRB;Sport Recife;1;0;2;0;2.75;2.76;2.8;2.78;https://www.flashscore.com/match/EHHDDnsb/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;03.09.2022;Chapecoense-SC;Ponte Preta;1;0;3;0;2.19;2.8;3.7;2.86;https://www.flashscore.com/match/SKsmSodi/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;03.09.2022;Bahia;Tombense;0;1;3;1;1.39;4.04;8.4;2.26;https://www.flashscore.com/match/0Ek14r4p/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;03.09.2022;Operario;Londrina;0;0;1;0;2.79;2.73;2.82;2.9;https://www.flashscore.com/match/GtEU94tN/#/match-summary
+BRAZIL;SERIE B;ROUND 28;2022;04.09.2022;Cruzeiro;Criciuma;0;1;1;1;1.5;3.69;6.59;2.29;https://www.flashscore.com/match/EHg532Jj/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;06.09.2022;Vila Nova FC;Guarani;0;1;2;1;2.26;2.72;3.75;3.13;https://www.flashscore.com/match/EiYMvPuc/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;07.09.2022;Ponte Preta;Sport Recife;1;0;1;0;2.59;2.72;3.07;2.73;https://www.flashscore.com/match/6BtiR5Bc/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;07.09.2022;Sampaio Correa;Novorizontino;0;0;2;1;2.3;2.89;3.36;2.41;https://www.flashscore.com/match/YeezHLmj/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;08.09.2022;Criciuma;Bahia;0;0;0;0;2.5;2.84;2.98;2.61;https://www.flashscore.com/match/6oBeO3eG/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;08.09.2022;Cruzeiro;Operario;1;0;1;0;1.25;5.05;11.25;1.94;https://www.flashscore.com/match/CnfvGu3d/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;09.09.2022;Nautico;Brusque;0;0;1;0;2.51;2.82;3.05;2.64;https://www.flashscore.com/match/COBiPqtA/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;10.09.2022;Ituano;Tombense;0;0;3;0;1.63;3.42;5.74;2.44;https://www.flashscore.com/match/KlFaNNAM/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;10.09.2022;CSA;CRB;0;1;1;1;2.13;2.85;3.88;2.76;https://www.flashscore.com/match/YXCmQPQ3/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;10.09.2022;Londrina;Chapecoense-SC;1;0;2;1;2.42;2.71;3.34;3.02;https://www.flashscore.com/match/2D44MsQS/#/match-summary
+BRAZIL;SERIE B;ROUND 29;2022;11.09.2022;Gremio;Vasco;2;1;2;1;1.73;3.31;5.0;2.43;https://www.flashscore.com/match/4MjWH1Yq/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;12.09.2022;Sport Recife;Bahia;0;0;1;0;2.19;2.84;3.73;2.79;https://www.flashscore.com/match/GGUwysuM/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;13.09.2022;Operario;Guarani;0;1;0;1;2.56;2.74;3.06;2.86;https://www.flashscore.com/match/QkKDUvIk/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;13.09.2022;Ponte Preta;Ituano;1;1;1;1;2.23;2.94;3.37;2.49;https://www.flashscore.com/match/QRyRwqe3/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;16.09.2022;Vasco;Nautico;2;0;4;1;1.5;3.82;6.48;2.11;https://www.flashscore.com/match/8E9ITbXe/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;16.09.2022;Tombense;Londrina;0;1;1;1;2.52;2.62;3.28;3.32;https://www.flashscore.com/match/EBd4i2P2/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;16.09.2022;Novorizontino;Gremio;2;0;2;0;3.38;2.88;2.26;2.8;https://www.flashscore.com/match/CnG9VK2q/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;17.09.2022;Chapecoense-SC;CSA;0;0;1;0;2.1;2.94;3.85;2.67;https://www.flashscore.com/match/h2e8jMv9/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;17.09.2022;Brusque;Vila Nova FC;0;1;0;1;2.24;2.76;3.74;3.06;https://www.flashscore.com/match/f7Tsz1fS/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;17.09.2022;Sampaio Correa;Criciuma;1;0;1;1;2.32;2.88;3.28;2.41;https://www.flashscore.com/match/n58MSIn2/#/match-summary
+BRAZIL;SERIE B;ROUND 30;2022;17.09.2022;CRB;Cruzeiro;0;0;0;2;3.26;2.93;2.3;2.5;https://www.flashscore.com/match/KlyVx3A9/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;20.09.2022;Gremio;Sport Recife;0;0;3;0;1.63;3.32;6.13;2.48;https://www.flashscore.com/match/A541TkwD/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;20.09.2022;Guarani;Novorizontino;2;0;2;0;2.28;2.89;3.41;2.7;https://www.flashscore.com/match/zRpDktfF/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;21.09.2022;Cruzeiro;Vasco;1;0;3;0;1.52;3.74;6.25;2.2;https://www.flashscore.com/match/Ae1migVJ/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;22.09.2022;Vila Nova FC;CRB;0;0;1;0;2.01;2.87;4.39;2.97;https://www.flashscore.com/match/ln0ijDpQ/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;23.09.2022;Nautico;Sampaio Correa;1;1;1;3;2.19;3.0;3.46;2.34;https://www.flashscore.com/match/tQCpXXwl/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;23.09.2022;Londrina;Ponte Preta;0;0;0;2;2.11;2.89;3.89;2.64;https://www.flashscore.com/match/Gr5cUVN6/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;24.09.2022;Ituano;Brusque;1;0;2;0;2.12;2.9;3.78;2.55;https://www.flashscore.com/match/xh6gVB80/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;24.09.2022;Bahia;Operario;1;2;2;2;1.32;4.58;9.75;2.0;https://www.flashscore.com/match/8jN4S9hJ/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;25.09.2022;Criciuma;Chapecoense-SC;1;0;2;0;2.14;2.91;3.65;2.69;https://www.flashscore.com/match/KGBlWigf/#/match-summary
+BRAZIL;SERIE B;ROUND 31;2022;26.09.2022;CSA;Tombense;2;0;2;0;1.66;3.35;5.66;2.66;https://www.flashscore.com/match/n3DtYDOs/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;28.09.2022;Ponte Preta;Cruzeiro;1;1;1;4;3.11;2.9;2.4;2.43;https://www.flashscore.com/match/tvhJoXhs/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;28.09.2022;Sport Recife;Nautico;1;1;2;1;1.56;3.66;5.85;2.19;https://www.flashscore.com/match/2gtSqBNg/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;29.09.2022;Tombense;Novorizontino;1;0;2;0;2.8;2.74;2.68;2.87;https://www.flashscore.com/match/MFnN3WEP/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;29.09.2022;Vasco;Londrina;1;1;1;1;1.66;3.28;5.65;2.68;https://www.flashscore.com/match/ULaytTMI/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;30.09.2022;Sampaio Correa;Gremio;1;0;2;1;2.8;2.98;2.61;2.36;https://www.flashscore.com/match/8CbuumxP/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;30.09.2022;Operario;Vila Nova FC;1;1;1;1;2.5;2.72;3.21;3.14;https://www.flashscore.com/match/lArvs97C/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;30.09.2022;CSA;Guarani;1;1;1;2;1.9;2.98;4.67;2.84;https://www.flashscore.com/match/KUjNpi8m/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;30.09.2022;Chapecoense-SC;Bahia;0;1;3;1;2.4;2.89;3.18;2.5;https://www.flashscore.com/match/byvkajNt/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;01.10.2022;Brusque;Criciuma;0;0;0;2;2.27;2.91;3.36;2.69;https://www.flashscore.com/match/GdpWrVx0/#/match-summary
+BRAZIL;SERIE B;ROUND 32;2022;01.10.2022;Ituano;CRB;0;0;1;0;2.11;2.9;3.87;2.52;https://www.flashscore.com/match/AJqzrkh6/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;03.10.2022;Sampaio Correa;Ponte Preta;1;0;2;1;1.94;3.2;4.0;2.22;https://www.flashscore.com/match/fTMMiQLU/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;03.10.2022;Guarani;Londrina;0;0;1;0;1.92;3.0;4.55;2.89;https://www.flashscore.com/match/t0TgbAxm/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;04.10.2022;Vila Nova FC;Criciuma;0;0;1;0;2.3;2.81;3.49;3.04;https://www.flashscore.com/match/zNvVexYo/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;04.10.2022;Operario;Vasco;1;0;2;3;2.98;2.9;2.52;2.52;https://www.flashscore.com/match/MFOEgniI/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;04.10.2022;Gremio;CSA;2;0;2;0;1.3;4.4;12.0;2.31;https://www.flashscore.com/match/GxOIh66O/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;04.10.2022;CRB;Chapecoense-SC;1;0;2;1;2.23;2.82;3.66;2.68;https://www.flashscore.com/match/KjSccUig/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;04.10.2022;Brusque;Sport Recife;0;0;0;1;2.57;2.78;3.03;2.82;https://www.flashscore.com/match/SGV5e8M5/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;04.10.2022;Novorizontino;Bahia;1;1;1;1;2.78;2.84;2.73;2.66;https://www.flashscore.com/match/AuLAfSyC/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;04.10.2022;Nautico;Tombense;3;1;4;3;1.92;3.17;4.14;2.32;https://www.flashscore.com/match/lQW1dl7a/#/match-summary
+BRAZIL;SERIE B;ROUND 33;2022;05.10.2022;Cruzeiro;Ituano;1;1;1;1;1.52;3.78;6.53;2.14;https://www.flashscore.com/match/dWuRdIIu/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;07.10.2022;Criciuma;Nautico;1;1;2;1;1.46;4.04;6.5;2.04;https://www.flashscore.com/match/42WohfXA/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;07.10.2022;CSA;Sampaio Correa;0;0;0;0;2.13;3.06;3.6;2.5;https://www.flashscore.com/match/rmrwfG2b/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;08.10.2022;Chapecoense-SC;Operario;1;1;1;1;1.7;3.31;5.4;2.55;https://www.flashscore.com/match/l8DB8FHi/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;08.10.2022;Bahia;Brusque;1;0;1;0;1.52;3.69;6.58;2.19;https://www.flashscore.com/match/dEQPpCPp/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;08.10.2022;Londrina;Gremio;0;1;1;1;4.44;3.03;1.9;2.76;https://www.flashscore.com/match/xUqgjY1N/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;08.10.2022;Vasco;Novorizontino;1;0;3;0;1.61;3.57;5.68;2.24;https://www.flashscore.com/match/KhZckhHT/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;08.10.2022;Tombense;CRB;0;0;1;2;2.37;2.76;3.39;2.78;https://www.flashscore.com/match/AHE79e2o/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;08.10.2022;Ituano;Guarani;1;0;2;1;2.15;2.89;3.72;2.57;https://www.flashscore.com/match/bwokiEnH/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;08.10.2022;Ponte Preta;Vila Nova FC;0;0;1;1;2.31;2.78;3.48;2.62;https://www.flashscore.com/match/UqvZfdmh/#/match-summary
+BRAZIL;SERIE B;ROUND 34;2022;09.10.2022;Sport Recife;Cruzeiro;2;0;3;1;2.25;3.04;3.26;2.4;https://www.flashscore.com/match/QBXsgzI4/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;11.10.2022;Guarani;CRB;0;0;1;0;1.74;3.26;5.12;2.43;https://www.flashscore.com/match/6q8G7ZWc/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;11.10.2022;Sampaio Correa;Chapecoense-SC;1;1;2;1;1.98;3.18;3.84;2.22;https://www.flashscore.com/match/IoQ8p3V1/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;13.10.2022;Operario;Brusque;0;0;0;0;2.19;2.91;3.56;2.66;https://www.flashscore.com/match/ALM0nP0k/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;14.10.2022;CSA;Londrina;0;0;0;1;1.72;3.21;5.24;2.81;https://www.flashscore.com/match/pz7K6gn4/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;14.10.2022;Vila Nova FC;Cruzeiro;0;0;1;0;2.7;2.85;2.77;2.72;https://www.flashscore.com/match/Yg8e86N8/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;14.10.2022;Novorizontino;Nautico;2;0;6;0;1.56;3.77;5.54;2.01;https://www.flashscore.com/match/WUNdm5oq/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;15.10.2022;Tombense;Ponte Preta;0;0;0;0;2.37;2.76;3.4;2.62;https://www.flashscore.com/match/Kj4i9n82/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;15.10.2022;Criciuma;Ituano;1;0;3;0;2.02;3.02;4.03;2.5;https://www.flashscore.com/match/jX9S4XGG/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;16.10.2022;Sport Recife;Vasco;0;0;1;1;1.89;3.08;4.42;2.5;https://www.flashscore.com/match/vc6O5D1A/#/match-summary
+BRAZIL;SERIE B;ROUND 35;2022;16.10.2022;Gremio;Bahia;0;1;1;1;1.63;3.48;5.64;2.4;https://www.flashscore.com/match/veR4oqGe/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;18.10.2022;Brusque;Novorizontino;1;1;2;2;2.41;2.88;3.16;2.77;https://www.flashscore.com/match/lS9S0OFr/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;18.10.2022;Cruzeiro;Guarani;0;0;0;1;1.52;3.71;6.2;2.06;https://www.flashscore.com/match/pEgVKq7E/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;20.10.2022;Ponte Preta;CSA;0;2;0;2;2.19;2.93;3.53;2.56;https://www.flashscore.com/match/SG7a7QxF/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;21.10.2022;Chapecoense-SC;Tombense;1;2;3;2;1.56;3.69;5.9;2.16;https://www.flashscore.com/match/SxqzK3MK/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;21.10.2022;CRB;Operario;1;1;2;1;1.94;3.08;4.16;2.42;https://www.flashscore.com/match/67636phL/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;22.10.2022;Vasco;Criciuma;0;1;2;1;1.84;3.19;4.41;2.41;https://www.flashscore.com/match/vH2ubMa1/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;22.10.2022;Londrina;Sport Recife;0;1;2;1;3.03;2.97;2.44;2.75;https://www.flashscore.com/match/dhDza2pe/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;22.10.2022;Ituano;Sampaio Correa;0;0;1;0;1.95;3.24;3.92;2.19;https://www.flashscore.com/match/rk9WarVl/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;22.10.2022;Bahia;Vila Nova FC;0;0;1;1;1.54;3.63;6.32;2.29;https://www.flashscore.com/match/6NfRLPi8/#/match-summary
+BRAZIL;SERIE B;ROUND 36;2022;23.10.2022;Nautico;Gremio;0;1;0;3;8.25;4.62;1.35;1.9;https://www.flashscore.com/match/nJN0547R/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;25.10.2022;Brusque;CRB;0;0;0;0;1.78;3.32;4.74;2.44;https://www.flashscore.com/match/vVsECLEf/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;25.10.2022;CSA;Vila Nova FC;1;0;1;0;1.79;3.12;4.85;2.51;https://www.flashscore.com/match/r3l5Espr/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;27.10.2022;Novorizontino;Cruzeiro;1;2;1;4;1.85;3.48;3.94;2.02;https://www.flashscore.com/match/ILtIBuU0/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;27.10.2022;Vasco;Sampaio Correa;1;1;2;3;1.48;3.88;6.66;2.09;https://www.flashscore.com/match/QopQ9JbD/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;28.10.2022;Tombense;Gremio;1;2;2;2;2.81;2.93;2.56;2.29;https://www.flashscore.com/match/6sNCXMjK/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;28.10.2022;Sport Recife;Operario;3;0;5;1;1.32;4.54;9.45;2.04;https://www.flashscore.com/match/Mgm9D1al/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;28.10.2022;Londrina;Ituano;0;1;0;2;2.62;3.16;2.55;2.14;https://www.flashscore.com/match/CrtMAaq7/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;28.10.2022;Bahia;Guarani;1;0;1;1;1.5;3.74;6.8;2.15;https://www.flashscore.com/match/SjO8Y2yE/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;28.10.2022;Ponte Preta;Criciuma;1;1;1;1;2.42;3.1;2.9;2.14;https://www.flashscore.com/match/QN1wJNyR/#/match-summary
+BRAZIL;SERIE B;ROUND 37;2022;29.10.2022;Chapecoense-SC;Nautico;1;0;1;0;1.16;6.7;15.0;1.53;https://www.flashscore.com/match/E7MGWt6Q/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;03.11.2022;Gremio;Brusque;2;0;3;0;1.22;5.41;12.05;1.71;https://www.flashscore.com/match/tOg8MdrJ/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;04.11.2022;Nautico;Ponte Preta;0;0;0;1;4.47;3.62;1.72;1.87;https://www.flashscore.com/match/Cr2iQvqf/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;05.11.2022;Criciuma;Tombense;1;0;2;0;1.36;4.42;8.15;1.91;https://www.flashscore.com/match/651ePbb0/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;05.11.2022;Sampaio Correa;Londrina;0;1;2;1;1.34;4.58;8.21;1.8;https://www.flashscore.com/match/fRsjotLJ/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;06.11.2022;Guarani;Chapecoense-SC;0;0;1;0;2.22;3.11;3.24;2.18;https://www.flashscore.com/match/GG8rS0Es/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;06.11.2022;Vila Nova FC;Sport Recife;0;0;0;0;4.03;3.32;1.87;2.22;https://www.flashscore.com/match/CrOMuKrs/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;06.11.2022;Operario;Novorizontino;0;2;0;3;7.67;4.47;1.36;1.76;https://www.flashscore.com/match/2Xf4NxTC/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;06.11.2022;Ituano;Vasco;0;1;0;1;2.38;3.0;3.01;2.38;https://www.flashscore.com/match/pd0aOID6/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;06.11.2022;Cruzeiro;CSA;1;1;3;2;1.55;3.76;5.8;2.08;https://www.flashscore.com/match/61ofp0zQ/#/match-summary
+BRAZIL;SERIE B;ROUND 38;2022;06.11.2022;CRB;Bahia;0;1;1;2;4.7;3.24;1.78;2.4;https://www.flashscore.com/match/bubmRKTm/#/match-summary
